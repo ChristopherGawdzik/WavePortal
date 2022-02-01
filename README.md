@@ -16,4 +16,4 @@ Setup:
 <br>
 5.) You will know Metamask has been installed when their is a fox logo on the top right corner of your browser
 
-<img src="images/Extensions.png" width="100">
+<img src="images/Extensions.png" width="150">
