@@ -4,6 +4,8 @@ Welcome! Due to my wave portal application codebase having various wallet addres
 However, this readme will explain how to interact with the application and how it works. 
 First lets setup your metamask wallet to interact. 
 
+Project Website: https://waveportal-baseline-student-1.christophergawd.repl.co/
+
 Setting Metamask up: 
 <br>
 1.) Go to the Metamask website
