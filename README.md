@@ -40,7 +40,6 @@ Step 6: Click on "Ethereum Mainnet" at the top of the screen and switch to "Rink
 <br>
 
 Step 7: Get some test network Ethereum to play with my application  go to https://faucet.rinkeby.io/ and follow the steps at the bottom using either twitter or facebook
-
 <br>
 Step 8: Go to my website hosted my repl at https://waveportal-baseline-student-1.christophergawd.repl.co/
 <br>
