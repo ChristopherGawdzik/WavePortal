@@ -31,4 +31,4 @@ Step 4: You will then see 12 words which is considered your "seed phrase" make s
 Step 5: Once your phrase is secure click "I've copied it somewhere safe" and you will be taken into your metamask wallet. 
 <br>
 Step 6: Click on "Ethereum Mainnet" at the top of the screen and switch to "Rinkebey Test Network". It should look like this. 
-<img src="images/rinkebey.png" width="150">
+<h2 align="center"<img src="images/rinkebey.png" width="150"></h2>
