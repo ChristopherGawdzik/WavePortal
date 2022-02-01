@@ -15,9 +15,12 @@ Setup:
 4.) Click “Add Extension” to complete the installation
 <br>
 5.) You will know Metamask has been installed when their is a fox logo on the top right corner of your browser
+
 <br>
 <img src="images/Extensions.png" width="150">
 <br>
+
+
 Using Metamask: 
 <br>
 Step 1: Click on the Metamask/Fox logo in the upper right hand corner of your browser.
