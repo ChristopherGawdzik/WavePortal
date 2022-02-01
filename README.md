@@ -45,5 +45,5 @@ Step 9: Click on "Connect Wallet" and click "next"
 <br>
 Step 10: Click on "Wave at Me" and Metamask will open and confirm the transaction. 
 <br>
-<img src="images/connect_wallet.png" width="150">
+<img src="images/rinkebey-fee.png" width="150">
 <br> 
