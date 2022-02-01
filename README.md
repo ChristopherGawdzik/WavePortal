@@ -31,10 +31,13 @@ Step 4: You will then see 12 words which is considered your "seed phrase" make s
 Step 5: Once your phrase is secure click "I've copied it somewhere safe" and you will be taken into your metamask wallet. 
 <br>
 Step 6: Click on "Ethereum Mainnet" at the top of the screen and switch to "Rinkebey Test Network". It should look like this. 
+
 <br>
 <img src="images/rinkebey.png" width="150">
 <br>
+
 Step 7: Get some test network Ethereum to play with my application  go to https://faucet.rinkeby.io/ and follow the steps at the bottom using either twitter or facebook
+
 <br>
 Step 8: Go to my website hosted my repl at https://waveportal-baseline-student-1.christophergawd.repl.co/
 <br>
@@ -47,10 +50,8 @@ Step 9: Click on "Connect Wallet" and click "next"
 
 Step 10: Click on "Wave at Me" and Metamask will open and then confirm the transaction. 
 
-
 <br>
 <img src="images/test-fee.png" width="150">
 <br> 
-
 
 Step 11: Then right click on the wave portal somewhere and click "inspect" then go to "console" and you will see your wave has been saved on the contract and the address has been mined. Meaning the Ethereum network worked. 
