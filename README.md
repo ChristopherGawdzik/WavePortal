@@ -43,7 +43,8 @@ Step 9: Click on "Connect Wallet" and click "next"
 <br>
 <img src="images/connect_wallet.png" width="250">
 <br>
-Step 10: Click on "Wave at Me" and Metamask will open and confirm the transaction. 
+Step 10: Click on "Wave at Me" and Metamask will open and then confirm the transaction. 
 <br>
 <img src="images/test-fee.png" width="150">
 <br> 
+Step 11: Then right click on the wave portal somewhere and click "inspect" then go to "console" and you will see your wave has been saved on the contract and the address has been mined. Meaning the Ethereum network worked. 
