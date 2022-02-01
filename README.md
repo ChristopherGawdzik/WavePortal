@@ -29,3 +29,6 @@ Step 3: Setup your password and proceed by clicking "Create" to have a wallet.
 Step 4: You will then see 12 words which is considered your "seed phrase" make sure to securely save this phrase with whatever method you wish. This is the way to get back into your account if you ever forget your password. However, other people may use it to get in your wallet as well so be sure to store it safely. 
 <br>
 Step 5: Once your phrase is secure click "I've copied it somewhere safe" and you will be taken into your metamask wallet. 
+<br>
+Step 6: Click on "Ethereum Mainnet" at the top of the screen and switch to "Rinkebey Test Network". It should look like this. 
+<img src="images/rinkebey.png" width="150">
