@@ -7,6 +7,7 @@ First lets setup your metamask wallet to interact.
 Setup: 
 
 1.) Go to the Metamask website
+<br>
 2.) Click “Get Chrome Extension” to install Metamask
 3.) Click “Add to Chrome” in the upper right
 4.) Click “Add Extension” to complete the installation
