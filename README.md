@@ -5,6 +5,7 @@ However, this readme will explain how to interact with the application and how i
 First lets setup your metamask wallet to interact. 
 
 Setup: 
+<br>
 1.) Go to the Metamask website
 <br>
 2.) Click “Get Chrome Extension” to install Metamask or go here to add it https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=en
