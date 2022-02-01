@@ -1,3 +1,1 @@
-# WavePortal
 
-![](images/metamask.png)
