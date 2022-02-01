@@ -42,4 +42,5 @@ Step 9: Click on "Connect Wallet" and click "next"
 <br>
 <br>
 <img src="images/connect_wallet.png" width="250">
+Step 10: Click on "Wave at Me" and Metamask will open and confirm the transaction. 
 
