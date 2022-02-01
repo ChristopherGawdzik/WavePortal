@@ -18,6 +18,7 @@ Setup:
 <img src="images/Extensions.png" width="150">
 
 Using Metamask: 
+<br>
 Step 1: Click on the Metamask/Fox logo in the upper right hand corner of your browser.
 <br>
 Step 2: Read & Agree to the terms and conditions. 
