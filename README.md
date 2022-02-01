@@ -8,7 +8,7 @@ Setup:
 
 1.) Go to the Metamask website
 <br>
-2.) Click “Get Chrome Extension” to install Metamask
+2.) Click “Get Chrome Extension” to install Metamask or go here to add it https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=en
 <br>
 3.) Click “Add to Chrome” in the upper right
 <br>
